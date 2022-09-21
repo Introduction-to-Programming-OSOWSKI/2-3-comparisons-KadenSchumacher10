@@ -1,6 +1,3 @@
-from tkinter import TRUE
-
-
 def greaterThan(a,b):
     if a > b:
         return True
